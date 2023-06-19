@@ -1,0 +1,12 @@
+
+.Banner{
+    background-color:grey;
+    width:1500px;
+    height:200px;
+    margin-bottom:100px;
+}
+.Banner_text{
+    top:10%;
+    left:45%;
+    position:absolute;
+}
